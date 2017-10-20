@@ -14,6 +14,7 @@
 		B29A076D1F99C5D1009328C4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B29A076B1F99C5D1009328C4 /* LaunchScreen.storyboard */; };
 		B29A07781F99C5D1009328C4 /* RocketTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B29A07771F99C5D1009328C4 /* RocketTests.swift */; };
 		B29A07831F99C5D1009328C4 /* RocketUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B29A07821F99C5D1009328C4 /* RocketUITests.swift */; };
+		B29A07911F99C774009328C4 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = B29A07901F99C774009328C4 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B29A077E1F99C5D1009328C4 /* RocketUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RocketUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B29A07821F99C5D1009328C4 /* RocketUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketUITests.swift; sourceTree = "<group>"; };
 		B29A07841F99C5D1009328C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B29A07901F99C774009328C4 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		B29A07611F99C5D1009328C4 /* Rocket */ = {
 			isa = PBXGroup;
 			children = (
+				B29A07901F99C774009328C4 /* hustle-on.wav */,
 				B29A07621F99C5D1009328C4 /* AppDelegate.swift */,
 				B29A07641F99C5D1009328C4 /* ViewController.swift */,
 				B29A07661F99C5D1009328C4 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B29A07911F99C774009328C4 /* hustle-on.wav in Resources */,
 				B29A076D1F99C5D1009328C4 /* LaunchScreen.storyboard in Resources */,
 				B29A076A1F99C5D1009328C4 /* Assets.xcassets in Resources */,
 				B29A07681F99C5D1009328C4 /* Main.storyboard in Resources */,
